@@ -7,8 +7,8 @@ Based on this [FIAS protocol description](https://docs.oracle.com/cd/E94145_01/d
 ## Library prospects
 
 Current plan is to:
-    - [ ] Add message struct
-    - [ ] Create message parser
-    - [ ] something else?
+- [ ] Add message struct
+- [ ] Create message parser
+- [ ] something else?
 
 If you have any ideas or/and suggestions feel free to make an issue with description.
